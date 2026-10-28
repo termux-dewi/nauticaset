@@ -1,8 +1,8 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-let serviceName = "";
-let APP_DOMAIN = "";
+let serviceName = "nauticaset";
+let APP_DOMAIN = "zeroset.darkdocker.qzz.io";
 
 let prxIP = "";
 let cachedPrxList = [];
